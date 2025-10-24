@@ -1,0 +1,1622 @@
+{
+  "timestamp": "2025-10-23T10:15:51.605Z",
+  "summary": {
+    "totalDifferences": 125,
+    "majorDifferences": [
+      {
+        "section": "carousel",
+        "path": "carousel.classes.0",
+        "type": "value_difference",
+        "vue": "container",
+        "react": "mx-auto"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.classes.1",
+        "type": "value_difference",
+        "vue": "mx-auto",
+        "react": "px-4"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.classes.2",
+        "type": "missing_in_vue",
+        "react": "md:px-24"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.classes.3",
+        "type": "missing_in_vue",
+        "react": "lg:px-24"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.dimensions.width",
+        "type": "value_difference",
+        "vue": 1536,
+        "react": 1920
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.dimensions.height",
+        "type": "value_difference",
+        "vue": 1488,
+        "react": 1500
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.classes.3",
+        "type": "value_difference",
+        "vue": "text-lg",
+        "react": "gap-6"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.classes.4",
+        "type": "value_difference",
+        "vue": "lg:grid-cols-2",
+        "react": "md:grid-cols-2"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.classes.5",
+        "type": "value_difference",
+        "vue": "lg:gap-24",
+        "react": "md:gap-6"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.classes.6",
+        "type": "missing_in_vue",
+        "react": "lg:grid-cols-4"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.classes.7",
+        "type": "missing_in_vue",
+        "react": "lg:gap-6"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.dimensions.width",
+        "type": "value_difference",
+        "vue": 648.3125,
+        "react": 1728
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.dimensions.height",
+        "type": "value_difference",
+        "vue": 28,
+        "react": 996
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.0",
+        "type": "value_difference",
+        "vue": "rounded-sm",
+        "react": "absolute"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.1",
+        "type": "value_difference",
+        "vue": "bg-blue-500",
+        "react": "left-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.2",
+        "type": "value_difference",
+        "vue": "px-4",
+        "react": "top-1/2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.3",
+        "type": "value_difference",
+        "vue": "py-2",
+        "react": "-translate-y-1/2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.4",
+        "type": "value_difference",
+        "vue": "font-bold",
+        "react": "rounded-full"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.5",
+        "type": "value_difference",
+        "vue": "text-white",
+        "react": "bg-white/80"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.6",
+        "type": "value_difference",
+        "vue": "hover:bg-blue-700",
+        "react": "p-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.7",
+        "type": "missing_in_vue",
+        "react": "shadow-lg"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.classes.8",
+        "type": "missing_in_vue",
+        "react": "hover:bg-white"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 40
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.0",
+        "type": "value_difference",
+        "vue": "rounded-sm",
+        "react": "absolute"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.1",
+        "type": "value_difference",
+        "vue": "bg-blue-500",
+        "react": "right-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.2",
+        "type": "value_difference",
+        "vue": "px-4",
+        "react": "top-1/2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.3",
+        "type": "value_difference",
+        "vue": "py-2",
+        "react": "-translate-y-1/2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.4",
+        "type": "value_difference",
+        "vue": "font-bold",
+        "react": "rounded-full"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.5",
+        "type": "value_difference",
+        "vue": "text-white",
+        "react": "bg-white/80"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.6",
+        "type": "value_difference",
+        "vue": "hover:bg-blue-700",
+        "react": "p-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.7",
+        "type": "missing_in_vue",
+        "react": "shadow-lg"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.classes.8",
+        "type": "missing_in_vue",
+        "react": "hover:bg-white"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 40
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.0",
+        "type": "value_difference",
+        "vue": "rounded-sm",
+        "react": "h-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.1",
+        "type": "value_difference",
+        "vue": "bg-blue-500",
+        "react": "w-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.2",
+        "type": "value_difference",
+        "vue": "px-4",
+        "react": "rounded-full"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.3",
+        "type": "value_difference",
+        "vue": "py-2",
+        "react": "transition-all"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.4",
+        "type": "value_difference",
+        "vue": "font-bold",
+        "react": "bg-white"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.5",
+        "type": "value_difference",
+        "vue": "text-white",
+        "react": "w-8"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.classes.6",
+        "type": "missing_in_react",
+        "vue": "hover:bg-blue-700"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 32
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.dimensions.height",
+        "type": "value_difference",
+        "vue": 40,
+        "react": 8
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.0",
+        "type": "value_difference",
+        "vue": "rounded-sm",
+        "react": "h-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.1",
+        "type": "value_difference",
+        "vue": "bg-blue-500",
+        "react": "w-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.2",
+        "type": "value_difference",
+        "vue": "px-4",
+        "react": "rounded-full"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.3",
+        "type": "value_difference",
+        "vue": "py-2",
+        "react": "transition-all"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.4",
+        "type": "value_difference",
+        "vue": "font-bold",
+        "react": "bg-white/50"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.5",
+        "type": "missing_in_react",
+        "vue": "text-white"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.classes.6",
+        "type": "missing_in_react",
+        "vue": "hover:bg-blue-700"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 8
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.dimensions.height",
+        "type": "value_difference",
+        "vue": 40,
+        "react": 8
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.0",
+        "type": "value_difference",
+        "vue": "rounded-sm",
+        "react": "h-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.1",
+        "type": "value_difference",
+        "vue": "bg-blue-500",
+        "react": "w-2"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.2",
+        "type": "value_difference",
+        "vue": "px-4",
+        "react": "rounded-full"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.3",
+        "type": "value_difference",
+        "vue": "py-2",
+        "react": "transition-all"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.4",
+        "type": "value_difference",
+        "vue": "font-bold",
+        "react": "bg-white/50"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.5",
+        "type": "missing_in_react",
+        "vue": "text-white"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.classes.6",
+        "type": "missing_in_react",
+        "vue": "hover:bg-blue-700"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 8
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.dimensions.height",
+        "type": "value_difference",
+        "vue": 40,
+        "react": 8
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.5.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 164.96875
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.6.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 164.96875
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.7.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 164.96875
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.8.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 164.96875
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.9.dimensions.width",
+        "type": "value_difference",
+        "vue": 176,
+        "react": 164.96875
+      }
+    ],
+    "minorDifferences": [
+      {
+        "section": "carousel",
+        "path": "carousel.styles.padding",
+        "type": "value_difference",
+        "vue": "0px",
+        "react": "0px 96px"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.styles.margin",
+        "type": "value_difference",
+        "vue": "0px 192px",
+        "react": "0px"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.textContent",
+        "type": "value_difference",
+        "vue": "カテゴリ すべて服バッグシューズ ブランド すべて高級なブランドカジュアルなブランドノーブランドノーブランド￥1,980 買い物かごに入れる カジュアルなブランド￥4,800 買い物かごに入れる 高級なブランド￥49,800 買い物かごに入れる カジュアルなブランド￥2,800 買い物かごに入れる ノーブランド￥18,800 買い物かごに入れる カジュアルなブランド￥38,000 買い物かごに入れる ノーブランド￥24,800 買い物かごに入れる 高級なブランド￥2,800 買い物かごに入れる 高級なブランド￥258,000 買い物かごに入れる カジュアルなブランド￥12,800 買い物かごに入れる 高級なブランド￥23,800 買い物かごに入れる 高級なブランド￥1,980 買い物かごに入れる",
+        "react": "カテゴリーすべてTシャツマグカップステッカーブランドすべて高級なブランドカジュアルなブランドノーブランドノーブランド￥1,980買い物かごに入れるカジュアルなブランド￥4,800買い物かごに入れる高級なブランド￥49,800買い物かごに入れるカジュアルなブランド￥2,800買い物かごに入れるノーブランド￥18,800買い物かごに入れるカジュアルなブランド￥38,000買い物かごに入れるノーブランド￥24,800買い物かごに入れる高級なブランド￥2,800買い物かごに入れる高級なブランド￥258,000買い物かごに入れるカジュアルなブランド￥12,800買い物かごに入れる前へ1 / 2次へ"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.innerHTML",
+        "type": "value_difference",
+        "vue": "<!--v-if--><div><div class=\"m-4 flex justify-center\"><div data-test=\"body\" class=\"container touch-pan-y h-auto w-full\"><div class=\"flex items-center justify-center\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-10 w-10 text-gray-300 hover:text-gray-500\"><path fill-rule=\"evenodd\" d=\"M7.72 12.53a.75.75 0 0 1 0-1.06l7.5-7.5a.75.75 0 1 1 1.06 1.06L9.31 12l6.97 6.97a.75.75 0 1 1-1.06 1.06l-7.5-7.5Z\" clip-rule=\"evenodd\"></path></svg><div data-test=\"slider\" style=\"transform: translate3d(0px, 0px, 0px);\"><img src=\"/api/assets/b52dc7f712d94ca5812dd995bf926c04\" alt=\"Special Contents\" class=\"pointer-events-none m-auto max-h-90 min-w-0\"></div><!--v-if--><!--v-if--><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-10 w-10 text-gray-300 hover:text-gray-500\"><path fill-rule=\"evenodd\" d=\"M16.28 11.47a.75.75 0 0 1 0 1.06l-7.5 7.5a.75.75 0 0 1-1.06-1.0",
+        "react": "<div class=\"my-4\"><div class=\"relative w-full overflow-hidden rounded-lg\"><div class=\"relative h-64 md:h-96\"><img alt=\"LTOX48Q\" class=\"h-full w-full object-cover\" src=\"http://localhost:8080/api/assets/b52dc7f712d94ca5812dd995bf926c04\"></div><button class=\"absolute left-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg hover:bg-white\" aria-label=\"Previous slide\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-6 w-6\"><path fill-rule=\"evenodd\" d=\"M7.72 12.53a.75.75 0 0 1 0-1.06l7.5-7.5a.75.75 0 1 1 1.06 1.06L9.31 12l6.97 6.97a.75.75 0 1 1-1.06 1.06l-7.5-7.5Z\" clip-rule=\"evenodd\"></path></svg></button><button class=\"absolute right-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg hover:bg-white\" aria-label=\"Next slide\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-6 w-6\"><path fill-rule=\"evenodd\" d=\"M16.2"
+      },
+      {
+        "section": "carousel",
+        "path": "carousel.childCount",
+        "type": "value_difference",
+        "vue": 1,
+        "react": 4
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.styles.gridTemplateColumns",
+        "type": "value_difference",
+        "vue": "276.156px 276.156px",
+        "react": "414px 414px 414px 414px"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.styles.gap",
+        "type": "value_difference",
+        "vue": "96px",
+        "react": "24px"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.styles.gridGap",
+        "type": "value_difference",
+        "vue": "96px",
+        "react": "24px"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.styles.columnGap",
+        "type": "value_difference",
+        "vue": "96px",
+        "react": "24px"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.styles.rowGap",
+        "type": "value_difference",
+        "vue": "96px",
+        "react": "24px"
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.productCount",
+        "type": "value_difference",
+        "vue": 0,
+        "react": 10
+      },
+      {
+        "section": "productGrid",
+        "path": "productGrid.innerHTML",
+        "type": "value_difference",
+        "vue": "<div><label class=\"mr-2 font-bold\"> カテゴリ <select class=\"w-48 border-2\"><option value=\"0\">すべて</option><option value=\"1\">服</option><option value=\"2\">バッグ</option><option value=\"3\">シューズ</option></select></label></div><div class=\"mt-2 lg:mt-0\"><label class=\"mr-2 font-bold\"> ブランド <select class=\"w-48 border-2\"><option value=\"0\">すべて</option><option value=\"1\">高級なブランド</option><option value=\"2\">カジュアルなブランド</option><option value=\"3\">ノーブランド</option></select></label></div>",
+        "react": "<div class=\"mx-auto w-60 justify-center p-2 md:border-2 lg:border-2\"><img alt=\"クルーネック Tシャツ - ブラック\" class=\"h-45\"><div class=\"w-full\"><p class=\"text-md mb-2 w-full\">ノーブランド</p><p class=\"text-lg font-bold\">￥1,980</p><div class=\"mt-4 flex items-center justify-center\"><button class=\"rounded-sm bg-blue-500 px-4 py-2 font-bold text-white hover:bg-blue-700\">買い物かごに入れる</button></div></div></div><div class=\"mx-auto w-60 justify-center p-2 md:border-2 lg:border-2\"><img alt=\"裏起毛 スキニーデニム\" class=\"h-45\" src=\"http://localhost:8080/api/assets/4aed07c4ed5d45a5b97f11acedfbb601\"><div class=\"w-full\"><p class=\"text-md mb-2 w-full\">カジュアルなブランド</p><p class=\"text-lg font-bold\">￥4,800</p><div class=\"mt-4 flex items-center justify-center\"><button class=\"rounded-sm bg-blue-500 px-4 py-2 font-bold text-white hover:bg-blue-700\">買い物かごに入れる</button></div></div></div><div class=\"mx-auto w-60 justify-center p-2 md:border-2 lg:border-2\"><img alt=\"ウールコート\" class=\"h-45\" src=\"http://localhost:8080/api/assets/082b37439ecc4491962"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.backgroundColor",
+        "type": "value_difference",
+        "vue": "oklch(0.623 0.214 259.815)",
+        "react": "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.color",
+        "type": "value_difference",
+        "vue": "rgb(255, 255, 255)",
+        "react": "rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.border",
+        "type": "value_difference",
+        "vue": "0px solid rgb(255, 255, 255)",
+        "react": "0px solid rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.borderRadius",
+        "type": "value_difference",
+        "vue": "4px",
+        "react": "3.35544e+07px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.padding",
+        "type": "value_difference",
+        "vue": "8px 16px",
+        "react": "8px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.0.styles.boxShadow",
+        "type": "value_difference",
+        "vue": "none",
+        "react": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.backgroundColor",
+        "type": "value_difference",
+        "vue": "oklch(0.623 0.214 259.815)",
+        "react": "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.color",
+        "type": "value_difference",
+        "vue": "rgb(255, 255, 255)",
+        "react": "rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.border",
+        "type": "value_difference",
+        "vue": "0px solid rgb(255, 255, 255)",
+        "react": "0px solid rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.borderRadius",
+        "type": "value_difference",
+        "vue": "4px",
+        "react": "3.35544e+07px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.padding",
+        "type": "value_difference",
+        "vue": "8px 16px",
+        "react": "8px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.1.styles.boxShadow",
+        "type": "value_difference",
+        "vue": "none",
+        "react": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.styles.backgroundColor",
+        "type": "value_difference",
+        "vue": "oklch(0.623 0.214 259.815)",
+        "react": "rgb(255, 255, 255)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.styles.color",
+        "type": "value_difference",
+        "vue": "rgb(255, 255, 255)",
+        "react": "rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.styles.border",
+        "type": "value_difference",
+        "vue": "0px solid rgb(255, 255, 255)",
+        "react": "0px solid rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.styles.borderRadius",
+        "type": "value_difference",
+        "vue": "4px",
+        "react": "3.35544e+07px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.styles.padding",
+        "type": "value_difference",
+        "vue": "8px 16px",
+        "react": "0px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.2.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.styles.backgroundColor",
+        "type": "value_difference",
+        "vue": "oklch(0.623 0.214 259.815)",
+        "react": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.styles.color",
+        "type": "value_difference",
+        "vue": "rgb(255, 255, 255)",
+        "react": "rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.styles.border",
+        "type": "value_difference",
+        "vue": "0px solid rgb(255, 255, 255)",
+        "react": "0px solid rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.styles.borderRadius",
+        "type": "value_difference",
+        "vue": "4px",
+        "react": "3.35544e+07px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.styles.padding",
+        "type": "value_difference",
+        "vue": "8px 16px",
+        "react": "0px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.3.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.styles.backgroundColor",
+        "type": "value_difference",
+        "vue": "oklch(0.623 0.214 259.815)",
+        "react": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.styles.color",
+        "type": "value_difference",
+        "vue": "rgb(255, 255, 255)",
+        "react": "rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.styles.border",
+        "type": "value_difference",
+        "vue": "0px solid rgb(255, 255, 255)",
+        "react": "0px solid rgb(0, 0, 0)"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.styles.borderRadius",
+        "type": "value_difference",
+        "vue": "4px",
+        "react": "3.35544e+07px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.styles.padding",
+        "type": "value_difference",
+        "vue": "8px 16px",
+        "react": "0px"
+      },
+      {
+        "section": "buttons",
+        "path": "buttons.4.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "header",
+        "path": "header.innerHTML",
+        "type": "value_difference",
+        "vue": "<nav aria-label=\"Jump links\" class=\"py-5 text-lg font-medium text-gray-900 shadow-xs ring-1 ring-gray-900/5\"><div class=\"mx-auto flex justify-between px-4 md:px-24 lg:px-24\"><div><a href=\"/\" class=\"router-link-active router-link-exact-active text-2xl\" aria-current=\"page\"> Dressca </a></div><div class=\"flex gap-5 sm:gap-5 lg:gap-12\"><a href=\"/basket\" class=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-8 w-8 text-amber-600\"><path d=\"M2.25 2.25a.75.75 0 0 0 0 1.5h1.386c.17 0 .318.114.362.278l2.558 9.592a3.752 3.752 0 0 0-2.806 3.63c0 .414.336.75.75.75h15.75a.75.75 0 0 0 0-1.5H5.378A2.25 2.25 0 0 1 7.5 15h11.218a.75.75 0 0 0 .674-.421 60.358 60.358 0 0 0 2.96-7.228.75.75 0 0 0-.525-.965A60.864 60.864 0 0 0 5.68 4.509l-.232-.867A1.875 1.875 0 0 0 3.636 2.25H2.25ZM3.75 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0ZM16.5 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0Z\"></path></svg></a><a href=\"/authentication/login\" cla",
+        "react": "<nav aria-label=\"Jump links\" class=\"py-5 text-lg font-medium text-gray-900 shadow-xs ring-1 ring-gray-900/5\"><div class=\"mx-auto flex justify-between px-4 md:px-24 lg:px-24\"><div><a class=\"text-2xl\" href=\"/\" data-discover=\"true\">Dressca</a></div><div class=\"flex gap-5 sm:gap-5 lg:gap-12\"><a href=\"/basket\" data-discover=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-8 w-8 text-amber-600\"><path d=\"M2.25 2.25a.75.75 0 0 0 0 1.5h1.386c.17 0 .318.114.362.278l2.558 9.592a3.752 3.752 0 0 0-2.806 3.63c0 .414.336.75.75.75h15.75a.75.75 0 0 0 0-1.5H5.378A2.25 2.25 0 0 1 7.5 15h11.218a.75.75 0 0 0 .674-.421 60.358 60.358 0 0 0 2.96-7.228.75.75 0 0 0-.525-.965A60.864 60.864 0 0 0 5.68 4.509l-.232-.867A1.875 1.875 0 0 0 3.636 2.25H2.25ZM3.75 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0ZM16.5 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0Z\"></path></svg></a><a class=\"text-lg font-medium text-gray-900\" href=\"/authentication/l"
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.0.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.0.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.1.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.1.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.2.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.2.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.3.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.3.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.4.text",
+        "type": "value_difference",
+        "vue": "買い物かごに入れる",
+        "react": ""
+      },
+      {
+        "section": "fonts",
+        "path": "fonts.buttons.4.styles.fontWeight",
+        "type": "value_difference",
+        "vue": "700",
+        "react": "400"
+      }
+    ]
+  },
+  "carousel": [
+    {
+      "path": "carousel.classes.0",
+      "type": "value_difference",
+      "vue": "container",
+      "react": "mx-auto"
+    },
+    {
+      "path": "carousel.classes.1",
+      "type": "value_difference",
+      "vue": "mx-auto",
+      "react": "px-4"
+    },
+    {
+      "path": "carousel.classes.2",
+      "type": "missing_in_vue",
+      "react": "md:px-24"
+    },
+    {
+      "path": "carousel.classes.3",
+      "type": "missing_in_vue",
+      "react": "lg:px-24"
+    },
+    {
+      "path": "carousel.dimensions.width",
+      "type": "value_difference",
+      "vue": 1536,
+      "react": 1920
+    },
+    {
+      "path": "carousel.dimensions.height",
+      "type": "value_difference",
+      "vue": 1488,
+      "react": 1500
+    },
+    {
+      "path": "carousel.styles.padding",
+      "type": "value_difference",
+      "vue": "0px",
+      "react": "0px 96px"
+    },
+    {
+      "path": "carousel.styles.margin",
+      "type": "value_difference",
+      "vue": "0px 192px",
+      "react": "0px"
+    },
+    {
+      "path": "carousel.textContent",
+      "type": "value_difference",
+      "vue": "カテゴリ すべて服バッグシューズ ブランド すべて高級なブランドカジュアルなブランドノーブランドノーブランド￥1,980 買い物かごに入れる カジュアルなブランド￥4,800 買い物かごに入れる 高級なブランド￥49,800 買い物かごに入れる カジュアルなブランド￥2,800 買い物かごに入れる ノーブランド￥18,800 買い物かごに入れる カジュアルなブランド￥38,000 買い物かごに入れる ノーブランド￥24,800 買い物かごに入れる 高級なブランド￥2,800 買い物かごに入れる 高級なブランド￥258,000 買い物かごに入れる カジュアルなブランド￥12,800 買い物かごに入れる 高級なブランド￥23,800 買い物かごに入れる 高級なブランド￥1,980 買い物かごに入れる",
+      "react": "カテゴリーすべてTシャツマグカップステッカーブランドすべて高級なブランドカジュアルなブランドノーブランドノーブランド￥1,980買い物かごに入れるカジュアルなブランド￥4,800買い物かごに入れる高級なブランド￥49,800買い物かごに入れるカジュアルなブランド￥2,800買い物かごに入れるノーブランド￥18,800買い物かごに入れるカジュアルなブランド￥38,000買い物かごに入れるノーブランド￥24,800買い物かごに入れる高級なブランド￥2,800買い物かごに入れる高級なブランド￥258,000買い物かごに入れるカジュアルなブランド￥12,800買い物かごに入れる前へ1 / 2次へ"
+    },
+    {
+      "path": "carousel.innerHTML",
+      "type": "value_difference",
+      "vue": "<!--v-if--><div><div class=\"m-4 flex justify-center\"><div data-test=\"body\" class=\"container touch-pan-y h-auto w-full\"><div class=\"flex items-center justify-center\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-10 w-10 text-gray-300 hover:text-gray-500\"><path fill-rule=\"evenodd\" d=\"M7.72 12.53a.75.75 0 0 1 0-1.06l7.5-7.5a.75.75 0 1 1 1.06 1.06L9.31 12l6.97 6.97a.75.75 0 1 1-1.06 1.06l-7.5-7.5Z\" clip-rule=\"evenodd\"></path></svg><div data-test=\"slider\" style=\"transform: translate3d(0px, 0px, 0px);\"><img src=\"/api/assets/b52dc7f712d94ca5812dd995bf926c04\" alt=\"Special Contents\" class=\"pointer-events-none m-auto max-h-90 min-w-0\"></div><!--v-if--><!--v-if--><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-10 w-10 text-gray-300 hover:text-gray-500\"><path fill-rule=\"evenodd\" d=\"M16.28 11.47a.75.75 0 0 1 0 1.06l-7.5 7.5a.75.75 0 0 1-1.06-1.0",
+      "react": "<div class=\"my-4\"><div class=\"relative w-full overflow-hidden rounded-lg\"><div class=\"relative h-64 md:h-96\"><img alt=\"LTOX48Q\" class=\"h-full w-full object-cover\" src=\"http://localhost:8080/api/assets/b52dc7f712d94ca5812dd995bf926c04\"></div><button class=\"absolute left-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg hover:bg-white\" aria-label=\"Previous slide\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-6 w-6\"><path fill-rule=\"evenodd\" d=\"M7.72 12.53a.75.75 0 0 1 0-1.06l7.5-7.5a.75.75 0 1 1 1.06 1.06L9.31 12l6.97 6.97a.75.75 0 1 1-1.06 1.06l-7.5-7.5Z\" clip-rule=\"evenodd\"></path></svg></button><button class=\"absolute right-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg hover:bg-white\" aria-label=\"Next slide\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-6 w-6\"><path fill-rule=\"evenodd\" d=\"M16.2"
+    },
+    {
+      "path": "carousel.childCount",
+      "type": "value_difference",
+      "vue": 1,
+      "react": 4
+    }
+  ],
+  "productGrid": [
+    {
+      "path": "productGrid.classes.3",
+      "type": "value_difference",
+      "vue": "text-lg",
+      "react": "gap-6"
+    },
+    {
+      "path": "productGrid.classes.4",
+      "type": "value_difference",
+      "vue": "lg:grid-cols-2",
+      "react": "md:grid-cols-2"
+    },
+    {
+      "path": "productGrid.classes.5",
+      "type": "value_difference",
+      "vue": "lg:gap-24",
+      "react": "md:gap-6"
+    },
+    {
+      "path": "productGrid.classes.6",
+      "type": "missing_in_vue",
+      "react": "lg:grid-cols-4"
+    },
+    {
+      "path": "productGrid.classes.7",
+      "type": "missing_in_vue",
+      "react": "lg:gap-6"
+    },
+    {
+      "path": "productGrid.dimensions.width",
+      "type": "value_difference",
+      "vue": 648.3125,
+      "react": 1728
+    },
+    {
+      "path": "productGrid.dimensions.height",
+      "type": "value_difference",
+      "vue": 28,
+      "react": 996
+    },
+    {
+      "path": "productGrid.styles.gridTemplateColumns",
+      "type": "value_difference",
+      "vue": "276.156px 276.156px",
+      "react": "414px 414px 414px 414px"
+    },
+    {
+      "path": "productGrid.styles.gap",
+      "type": "value_difference",
+      "vue": "96px",
+      "react": "24px"
+    },
+    {
+      "path": "productGrid.styles.gridGap",
+      "type": "value_difference",
+      "vue": "96px",
+      "react": "24px"
+    },
+    {
+      "path": "productGrid.styles.columnGap",
+      "type": "value_difference",
+      "vue": "96px",
+      "react": "24px"
+    },
+    {
+      "path": "productGrid.styles.rowGap",
+      "type": "value_difference",
+      "vue": "96px",
+      "react": "24px"
+    },
+    {
+      "path": "productGrid.productCount",
+      "type": "value_difference",
+      "vue": 0,
+      "react": 10
+    },
+    {
+      "path": "productGrid.innerHTML",
+      "type": "value_difference",
+      "vue": "<div><label class=\"mr-2 font-bold\"> カテゴリ <select class=\"w-48 border-2\"><option value=\"0\">すべて</option><option value=\"1\">服</option><option value=\"2\">バッグ</option><option value=\"3\">シューズ</option></select></label></div><div class=\"mt-2 lg:mt-0\"><label class=\"mr-2 font-bold\"> ブランド <select class=\"w-48 border-2\"><option value=\"0\">すべて</option><option value=\"1\">高級なブランド</option><option value=\"2\">カジュアルなブランド</option><option value=\"3\">ノーブランド</option></select></label></div>",
+      "react": "<div class=\"mx-auto w-60 justify-center p-2 md:border-2 lg:border-2\"><img alt=\"クルーネック Tシャツ - ブラック\" class=\"h-45\"><div class=\"w-full\"><p class=\"text-md mb-2 w-full\">ノーブランド</p><p class=\"text-lg font-bold\">￥1,980</p><div class=\"mt-4 flex items-center justify-center\"><button class=\"rounded-sm bg-blue-500 px-4 py-2 font-bold text-white hover:bg-blue-700\">買い物かごに入れる</button></div></div></div><div class=\"mx-auto w-60 justify-center p-2 md:border-2 lg:border-2\"><img alt=\"裏起毛 スキニーデニム\" class=\"h-45\" src=\"http://localhost:8080/api/assets/4aed07c4ed5d45a5b97f11acedfbb601\"><div class=\"w-full\"><p class=\"text-md mb-2 w-full\">カジュアルなブランド</p><p class=\"text-lg font-bold\">￥4,800</p><div class=\"mt-4 flex items-center justify-center\"><button class=\"rounded-sm bg-blue-500 px-4 py-2 font-bold text-white hover:bg-blue-700\">買い物かごに入れる</button></div></div></div><div class=\"mx-auto w-60 justify-center p-2 md:border-2 lg:border-2\"><img alt=\"ウールコート\" class=\"h-45\" src=\"http://localhost:8080/api/assets/082b37439ecc4491962"
+    }
+  ],
+  "filters": [],
+  "buttons": [
+    {
+      "path": "buttons.0.classes.0",
+      "type": "value_difference",
+      "vue": "rounded-sm",
+      "react": "absolute"
+    },
+    {
+      "path": "buttons.0.classes.1",
+      "type": "value_difference",
+      "vue": "bg-blue-500",
+      "react": "left-2"
+    },
+    {
+      "path": "buttons.0.classes.2",
+      "type": "value_difference",
+      "vue": "px-4",
+      "react": "top-1/2"
+    },
+    {
+      "path": "buttons.0.classes.3",
+      "type": "value_difference",
+      "vue": "py-2",
+      "react": "-translate-y-1/2"
+    },
+    {
+      "path": "buttons.0.classes.4",
+      "type": "value_difference",
+      "vue": "font-bold",
+      "react": "rounded-full"
+    },
+    {
+      "path": "buttons.0.classes.5",
+      "type": "value_difference",
+      "vue": "text-white",
+      "react": "bg-white/80"
+    },
+    {
+      "path": "buttons.0.classes.6",
+      "type": "value_difference",
+      "vue": "hover:bg-blue-700",
+      "react": "p-2"
+    },
+    {
+      "path": "buttons.0.classes.7",
+      "type": "missing_in_vue",
+      "react": "shadow-lg"
+    },
+    {
+      "path": "buttons.0.classes.8",
+      "type": "missing_in_vue",
+      "react": "hover:bg-white"
+    },
+    {
+      "path": "buttons.0.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "buttons.0.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 40
+    },
+    {
+      "path": "buttons.0.styles.backgroundColor",
+      "type": "value_difference",
+      "vue": "oklch(0.623 0.214 259.815)",
+      "react": "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)"
+    },
+    {
+      "path": "buttons.0.styles.color",
+      "type": "value_difference",
+      "vue": "rgb(255, 255, 255)",
+      "react": "rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.0.styles.border",
+      "type": "value_difference",
+      "vue": "0px solid rgb(255, 255, 255)",
+      "react": "0px solid rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.0.styles.borderRadius",
+      "type": "value_difference",
+      "vue": "4px",
+      "react": "3.35544e+07px"
+    },
+    {
+      "path": "buttons.0.styles.padding",
+      "type": "value_difference",
+      "vue": "8px 16px",
+      "react": "8px"
+    },
+    {
+      "path": "buttons.0.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "buttons.0.styles.boxShadow",
+      "type": "value_difference",
+      "vue": "none",
+      "react": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px"
+    },
+    {
+      "path": "buttons.1.classes.0",
+      "type": "value_difference",
+      "vue": "rounded-sm",
+      "react": "absolute"
+    },
+    {
+      "path": "buttons.1.classes.1",
+      "type": "value_difference",
+      "vue": "bg-blue-500",
+      "react": "right-2"
+    },
+    {
+      "path": "buttons.1.classes.2",
+      "type": "value_difference",
+      "vue": "px-4",
+      "react": "top-1/2"
+    },
+    {
+      "path": "buttons.1.classes.3",
+      "type": "value_difference",
+      "vue": "py-2",
+      "react": "-translate-y-1/2"
+    },
+    {
+      "path": "buttons.1.classes.4",
+      "type": "value_difference",
+      "vue": "font-bold",
+      "react": "rounded-full"
+    },
+    {
+      "path": "buttons.1.classes.5",
+      "type": "value_difference",
+      "vue": "text-white",
+      "react": "bg-white/80"
+    },
+    {
+      "path": "buttons.1.classes.6",
+      "type": "value_difference",
+      "vue": "hover:bg-blue-700",
+      "react": "p-2"
+    },
+    {
+      "path": "buttons.1.classes.7",
+      "type": "missing_in_vue",
+      "react": "shadow-lg"
+    },
+    {
+      "path": "buttons.1.classes.8",
+      "type": "missing_in_vue",
+      "react": "hover:bg-white"
+    },
+    {
+      "path": "buttons.1.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "buttons.1.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 40
+    },
+    {
+      "path": "buttons.1.styles.backgroundColor",
+      "type": "value_difference",
+      "vue": "oklch(0.623 0.214 259.815)",
+      "react": "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)"
+    },
+    {
+      "path": "buttons.1.styles.color",
+      "type": "value_difference",
+      "vue": "rgb(255, 255, 255)",
+      "react": "rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.1.styles.border",
+      "type": "value_difference",
+      "vue": "0px solid rgb(255, 255, 255)",
+      "react": "0px solid rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.1.styles.borderRadius",
+      "type": "value_difference",
+      "vue": "4px",
+      "react": "3.35544e+07px"
+    },
+    {
+      "path": "buttons.1.styles.padding",
+      "type": "value_difference",
+      "vue": "8px 16px",
+      "react": "8px"
+    },
+    {
+      "path": "buttons.1.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "buttons.1.styles.boxShadow",
+      "type": "value_difference",
+      "vue": "none",
+      "react": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px"
+    },
+    {
+      "path": "buttons.2.classes.0",
+      "type": "value_difference",
+      "vue": "rounded-sm",
+      "react": "h-2"
+    },
+    {
+      "path": "buttons.2.classes.1",
+      "type": "value_difference",
+      "vue": "bg-blue-500",
+      "react": "w-2"
+    },
+    {
+      "path": "buttons.2.classes.2",
+      "type": "value_difference",
+      "vue": "px-4",
+      "react": "rounded-full"
+    },
+    {
+      "path": "buttons.2.classes.3",
+      "type": "value_difference",
+      "vue": "py-2",
+      "react": "transition-all"
+    },
+    {
+      "path": "buttons.2.classes.4",
+      "type": "value_difference",
+      "vue": "font-bold",
+      "react": "bg-white"
+    },
+    {
+      "path": "buttons.2.classes.5",
+      "type": "value_difference",
+      "vue": "text-white",
+      "react": "w-8"
+    },
+    {
+      "path": "buttons.2.classes.6",
+      "type": "missing_in_react",
+      "vue": "hover:bg-blue-700"
+    },
+    {
+      "path": "buttons.2.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "buttons.2.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 32
+    },
+    {
+      "path": "buttons.2.dimensions.height",
+      "type": "value_difference",
+      "vue": 40,
+      "react": 8
+    },
+    {
+      "path": "buttons.2.styles.backgroundColor",
+      "type": "value_difference",
+      "vue": "oklch(0.623 0.214 259.815)",
+      "react": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "buttons.2.styles.color",
+      "type": "value_difference",
+      "vue": "rgb(255, 255, 255)",
+      "react": "rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.2.styles.border",
+      "type": "value_difference",
+      "vue": "0px solid rgb(255, 255, 255)",
+      "react": "0px solid rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.2.styles.borderRadius",
+      "type": "value_difference",
+      "vue": "4px",
+      "react": "3.35544e+07px"
+    },
+    {
+      "path": "buttons.2.styles.padding",
+      "type": "value_difference",
+      "vue": "8px 16px",
+      "react": "0px"
+    },
+    {
+      "path": "buttons.2.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "buttons.3.classes.0",
+      "type": "value_difference",
+      "vue": "rounded-sm",
+      "react": "h-2"
+    },
+    {
+      "path": "buttons.3.classes.1",
+      "type": "value_difference",
+      "vue": "bg-blue-500",
+      "react": "w-2"
+    },
+    {
+      "path": "buttons.3.classes.2",
+      "type": "value_difference",
+      "vue": "px-4",
+      "react": "rounded-full"
+    },
+    {
+      "path": "buttons.3.classes.3",
+      "type": "value_difference",
+      "vue": "py-2",
+      "react": "transition-all"
+    },
+    {
+      "path": "buttons.3.classes.4",
+      "type": "value_difference",
+      "vue": "font-bold",
+      "react": "bg-white/50"
+    },
+    {
+      "path": "buttons.3.classes.5",
+      "type": "missing_in_react",
+      "vue": "text-white"
+    },
+    {
+      "path": "buttons.3.classes.6",
+      "type": "missing_in_react",
+      "vue": "hover:bg-blue-700"
+    },
+    {
+      "path": "buttons.3.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "buttons.3.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 8
+    },
+    {
+      "path": "buttons.3.dimensions.height",
+      "type": "value_difference",
+      "vue": 40,
+      "react": 8
+    },
+    {
+      "path": "buttons.3.styles.backgroundColor",
+      "type": "value_difference",
+      "vue": "oklch(0.623 0.214 259.815)",
+      "react": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)"
+    },
+    {
+      "path": "buttons.3.styles.color",
+      "type": "value_difference",
+      "vue": "rgb(255, 255, 255)",
+      "react": "rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.3.styles.border",
+      "type": "value_difference",
+      "vue": "0px solid rgb(255, 255, 255)",
+      "react": "0px solid rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.3.styles.borderRadius",
+      "type": "value_difference",
+      "vue": "4px",
+      "react": "3.35544e+07px"
+    },
+    {
+      "path": "buttons.3.styles.padding",
+      "type": "value_difference",
+      "vue": "8px 16px",
+      "react": "0px"
+    },
+    {
+      "path": "buttons.3.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "buttons.4.classes.0",
+      "type": "value_difference",
+      "vue": "rounded-sm",
+      "react": "h-2"
+    },
+    {
+      "path": "buttons.4.classes.1",
+      "type": "value_difference",
+      "vue": "bg-blue-500",
+      "react": "w-2"
+    },
+    {
+      "path": "buttons.4.classes.2",
+      "type": "value_difference",
+      "vue": "px-4",
+      "react": "rounded-full"
+    },
+    {
+      "path": "buttons.4.classes.3",
+      "type": "value_difference",
+      "vue": "py-2",
+      "react": "transition-all"
+    },
+    {
+      "path": "buttons.4.classes.4",
+      "type": "value_difference",
+      "vue": "font-bold",
+      "react": "bg-white/50"
+    },
+    {
+      "path": "buttons.4.classes.5",
+      "type": "missing_in_react",
+      "vue": "text-white"
+    },
+    {
+      "path": "buttons.4.classes.6",
+      "type": "missing_in_react",
+      "vue": "hover:bg-blue-700"
+    },
+    {
+      "path": "buttons.4.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "buttons.4.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 8
+    },
+    {
+      "path": "buttons.4.dimensions.height",
+      "type": "value_difference",
+      "vue": 40,
+      "react": 8
+    },
+    {
+      "path": "buttons.4.styles.backgroundColor",
+      "type": "value_difference",
+      "vue": "oklch(0.623 0.214 259.815)",
+      "react": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)"
+    },
+    {
+      "path": "buttons.4.styles.color",
+      "type": "value_difference",
+      "vue": "rgb(255, 255, 255)",
+      "react": "rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.4.styles.border",
+      "type": "value_difference",
+      "vue": "0px solid rgb(255, 255, 255)",
+      "react": "0px solid rgb(0, 0, 0)"
+    },
+    {
+      "path": "buttons.4.styles.borderRadius",
+      "type": "value_difference",
+      "vue": "4px",
+      "react": "3.35544e+07px"
+    },
+    {
+      "path": "buttons.4.styles.padding",
+      "type": "value_difference",
+      "vue": "8px 16px",
+      "react": "0px"
+    },
+    {
+      "path": "buttons.4.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "buttons.5.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 164.96875
+    },
+    {
+      "path": "buttons.6.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 164.96875
+    },
+    {
+      "path": "buttons.7.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 164.96875
+    },
+    {
+      "path": "buttons.8.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 164.96875
+    },
+    {
+      "path": "buttons.9.dimensions.width",
+      "type": "value_difference",
+      "vue": 176,
+      "react": 164.96875
+    }
+  ],
+  "header": [
+    {
+      "path": "header.innerHTML",
+      "type": "value_difference",
+      "vue": "<nav aria-label=\"Jump links\" class=\"py-5 text-lg font-medium text-gray-900 shadow-xs ring-1 ring-gray-900/5\"><div class=\"mx-auto flex justify-between px-4 md:px-24 lg:px-24\"><div><a href=\"/\" class=\"router-link-active router-link-exact-active text-2xl\" aria-current=\"page\"> Dressca </a></div><div class=\"flex gap-5 sm:gap-5 lg:gap-12\"><a href=\"/basket\" class=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-8 w-8 text-amber-600\"><path d=\"M2.25 2.25a.75.75 0 0 0 0 1.5h1.386c.17 0 .318.114.362.278l2.558 9.592a3.752 3.752 0 0 0-2.806 3.63c0 .414.336.75.75.75h15.75a.75.75 0 0 0 0-1.5H5.378A2.25 2.25 0 0 1 7.5 15h11.218a.75.75 0 0 0 .674-.421 60.358 60.358 0 0 0 2.96-7.228.75.75 0 0 0-.525-.965A60.864 60.864 0 0 0 5.68 4.509l-.232-.867A1.875 1.875 0 0 0 3.636 2.25H2.25ZM3.75 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0ZM16.5 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0Z\"></path></svg></a><a href=\"/authentication/login\" cla",
+      "react": "<nav aria-label=\"Jump links\" class=\"py-5 text-lg font-medium text-gray-900 shadow-xs ring-1 ring-gray-900/5\"><div class=\"mx-auto flex justify-between px-4 md:px-24 lg:px-24\"><div><a class=\"text-2xl\" href=\"/\" data-discover=\"true\">Dressca</a></div><div class=\"flex gap-5 sm:gap-5 lg:gap-12\"><a href=\"/basket\" data-discover=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\" class=\"h-8 w-8 text-amber-600\"><path d=\"M2.25 2.25a.75.75 0 0 0 0 1.5h1.386c.17 0 .318.114.362.278l2.558 9.592a3.752 3.752 0 0 0-2.806 3.63c0 .414.336.75.75.75h15.75a.75.75 0 0 0 0-1.5H5.378A2.25 2.25 0 0 1 7.5 15h11.218a.75.75 0 0 0 .674-.421 60.358 60.358 0 0 0 2.96-7.228.75.75 0 0 0-.525-.965A60.864 60.864 0 0 0 5.68 4.509l-.232-.867A1.875 1.875 0 0 0 3.636 2.25H2.25ZM3.75 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0ZM16.5 20.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0Z\"></path></svg></a><a class=\"text-lg font-medium text-gray-900\" href=\"/authentication/l"
+    }
+  ],
+  "footer": [],
+  "fonts": [
+    {
+      "path": "fonts.buttons.0.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "fonts.buttons.0.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "fonts.buttons.1.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "fonts.buttons.1.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "fonts.buttons.2.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "fonts.buttons.2.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "fonts.buttons.3.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "fonts.buttons.3.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    },
+    {
+      "path": "fonts.buttons.4.text",
+      "type": "value_difference",
+      "vue": "買い物かごに入れる",
+      "react": ""
+    },
+    {
+      "path": "fonts.buttons.4.styles.fontWeight",
+      "type": "value_difference",
+      "vue": "700",
+      "react": "400"
+    }
+  ],
+  "domStructure": {}
+}

@@ -1,0 +1,51 @@
+
+=== COMPARISON SUMMARY ===
+
+Total Differences Found: 125
+
+Major Differences (65):
+  - carousel.carousel.classes.0: value_difference
+  - carousel.carousel.classes.1: value_difference
+  - carousel.carousel.classes.2: missing_in_vue
+  - carousel.carousel.classes.3: missing_in_vue
+  - carousel.carousel.dimensions.width: value_difference
+  - carousel.carousel.dimensions.height: value_difference
+  - productGrid.productGrid.classes.3: value_difference
+  - productGrid.productGrid.classes.4: value_difference
+  - productGrid.productGrid.classes.5: value_difference
+  - productGrid.productGrid.classes.6: missing_in_vue
+  - productGrid.productGrid.classes.7: missing_in_vue
+  - productGrid.productGrid.dimensions.width: value_difference
+  - productGrid.productGrid.dimensions.height: value_difference
+  - buttons.buttons.0.classes.0: value_difference
+  - buttons.buttons.0.classes.1: value_difference
+  - buttons.buttons.0.classes.2: value_difference
+  - buttons.buttons.0.classes.3: value_difference
+  - buttons.buttons.0.classes.4: value_difference
+  - buttons.buttons.0.classes.5: value_difference
+  - buttons.buttons.0.classes.6: value_difference
+
+Minor Differences (60):
+  - carousel.carousel.styles.padding: value_difference
+  - carousel.carousel.styles.margin: value_difference
+  - carousel.carousel.textContent: value_difference
+  - carousel.carousel.innerHTML: value_difference
+  - carousel.carousel.childCount: value_difference
+  - productGrid.productGrid.styles.gridTemplateColumns: value_difference
+  - productGrid.productGrid.styles.gap: value_difference
+  - productGrid.productGrid.styles.gridGap: value_difference
+  - productGrid.productGrid.styles.columnGap: value_difference
+  - productGrid.productGrid.styles.rowGap: value_difference
+  - productGrid.productGrid.productCount: value_difference
+  - productGrid.productGrid.innerHTML: value_difference
+  - buttons.buttons.0.text: value_difference
+  - buttons.buttons.0.styles.backgroundColor: value_difference
+  - buttons.buttons.0.styles.color: value_difference
+  - buttons.buttons.0.styles.border: value_difference
+  - buttons.buttons.0.styles.borderRadius: value_difference
+  - buttons.buttons.0.styles.padding: value_difference
+  - buttons.buttons.0.styles.fontWeight: value_difference
+  - buttons.buttons.0.styles.boxShadow: value_difference
+
+Screenshots saved to: /Users/yuheisuzuki/Private/maia/samples/web-csr/dressca-frontend/comparison-results
+Full details saved to: /Users/yuheisuzuki/Private/maia/samples/web-csr/dressca-frontend/comparison-results/comparison-report.json
